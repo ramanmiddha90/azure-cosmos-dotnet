@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/Samples/CosmosDBSample/CosmosDbClient/obj
+/Samples/CosmosDBSample/.vs/CosmosDBSample/v16/Server/sqlite3
