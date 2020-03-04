@@ -5,3 +5,6 @@
 /.vs
 /Samples/CosmosDBSample/CosmosDbClient/obj
 /Samples/CosmosDBSample/.vs/CosmosDBSample/v16/Server/sqlite3
+/Samples/CosmosDBSample/CosmosDbClient/bin/Debug/netcoreapp3.1
+/Samples/CosmosDBSample/CosmosDbClient/.vs/CosmosDbClient
+/Samples/CosmosDBSample/.vs/CosmosDBSample/DesignTimeBuild/.dtbcache
